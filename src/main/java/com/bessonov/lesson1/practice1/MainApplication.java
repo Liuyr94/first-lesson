@@ -1,8 +1,8 @@
-package com.bessonov.practice1;
+package com.bessonov.lesson1.practice1;
 
 import java.util.Scanner;
 
-public class MainApplication {
+class MainApplication {
     public static void main(String[] args) {
     }
 
